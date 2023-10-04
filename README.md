@@ -8,5 +8,4 @@ It's me Anissa. I have passion for learning  to dive into the world of QA softwa
 
 ## TOOLS
 + **JIRA** - a project management tool used to plan, track, release, and support agile software team.
-
-[x] Create and maintain workflows
+  - [x] Create and maintain workflows
