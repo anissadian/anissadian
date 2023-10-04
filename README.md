@@ -6,7 +6,7 @@ It's me Anissa. I have passion for learning  to dive into the world of QA softwa
 ### [1. Test Plan Documentation]()
 
 
-
 ## TOOLS
-+ **JIRA** - agile project management tool used by teams to plan, track, release, and support great software with confidence
++ **JIRA** - a project management tool used to plan, track, release, and support agile software team.
+
 [x] Create and maintain workflows
