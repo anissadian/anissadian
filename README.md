@@ -1,6 +1,7 @@
 ## Hi there! It's me Anissa 👋
 ###   Software Tester | IT Quality Assurance | From Indonesia 🇮🇩
 
+
 📝 **ABOUT ME** <br>
 <br>
 ⭐ **10 Years of IT Development Experience:** Strong understanding of the entire Software Development Life Cycle (SDLC), with hands-on experience in full-stack development, including frontend, backend, and DevOps.<br>
