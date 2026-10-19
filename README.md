@@ -1,7 +1,7 @@
-# Hi there! It's me Anissa 👋
-##   Software Tester | IT Quality Assurance | From Indonesia 🇮🇩 <hr>
+## Hi there! It's me Anissa 👋
+<center>###   Software Tester | IT Quality Assurance | From Indonesia 🇮🇩 </center><hr>
 
-📝 **### ABOUT ME** <br>
+📝 **ABOUT ME** <br>
 <br>
 ⭐ **10 Years of IT Development Experience:** Strong understanding of the entire Software Development Life Cycle (SDLC), with hands-on experience in full-stack development, including frontend, backend, and DevOps.<br>
 🎯 **Quality Assurance Focus:** Currently focusing on software testing both manual and automation testing, leveraging a technical development background to understand application behavior, identify defects, assess risks, and ensure software meets quality requirements.<br>
@@ -9,7 +9,7 @@
 
 <hr>
 
-💻 **### SKILLS** <br>
+💻 **SKILLS** <br>
 
 **QA Testing**
 
@@ -21,5 +21,5 @@
 
 <hr> 
 
-📩 ***LET'S CONNECT*** 
+📩 **LET'S CONNECT** 
  
