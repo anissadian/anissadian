@@ -15,7 +15,7 @@
 **QA Testing**
 
 **Database**
-![SQL Database](/../main/assets/assets/blob/main/icon.svg)
+![SQL Database](/../assets/blob/main/icon.svg)
 <br>
 **Programming**
 
