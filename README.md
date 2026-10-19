@@ -1,6 +1,6 @@
 ## Hi there! It's me Anissa 👋
 ###   Software Tester | IT Quality Assurance | From Indonesia 🇮🇩
-
+<hr>
 
 📝 **ABOUT ME** <br>
 <br>
