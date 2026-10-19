@@ -15,7 +15,8 @@
 **QA Testing**
 
 **Database**
-!(https://github.com/anissadian/assets/blob/main/icon.svg)
+![SQL Database](/../main/assets/assets/blob/main/icon.svg)
+<br>
 **Programming**
 
 **DevOPS**
