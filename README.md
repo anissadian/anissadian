@@ -15,7 +15,7 @@
 **QA Testing**
 
 **Database**
-
+!(https://github.com/anissadian/assets/blob/main/icon.svg)
 **Programming**
 
 **DevOPS**
